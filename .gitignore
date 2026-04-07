@@ -34,3 +34,6 @@ lerna-debug.log*
 # Temp tooling
 .tmpvenv
 **/*.tsbuildinfo
+
+# Project docs
+Project_Setup_Guide.pdf
